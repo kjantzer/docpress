@@ -28,7 +28,7 @@
   ],
   "dependencies": {
     "docpress-base": "0.7.4",
-    "docpress-core": "0.8.0",
+    "docpress-core": "kjantzer/docpress-core#prod",
     "metalsmith-start": "2.0.1",
     "yargs": "^12.0.2"
   },
